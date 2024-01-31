@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Task management",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We manage every task and progress, taking in your valuable inputs",
   },
   {
     id: "feature-2",
