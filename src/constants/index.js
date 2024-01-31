@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Design",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "Interior designers",
+    title: "Interior Designers",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "login",
+    title: "login",
   },
 ];
 
@@ -23,21 +23,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Task management",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Budget Tracking",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "At home service",
     content:
       "A balance transfer credit card can save you a lot of money in interest charges.",
   },
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Homes Crafted",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Designers",
+    value: "200+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Flexible Budget ",
+    value: "$",
   },
 ];
 
